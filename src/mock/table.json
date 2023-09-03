@@ -1,0 +1,42 @@
+[{
+    "sectionName": "משימה 6",
+    "sectionIcon": "/img/display-icon.50a40050.svg",
+    "score": 100,
+    "active": true
+},{
+    "sectionName": "משימה 6",
+    "sectionIcon": "../assets/display-icon.svg",
+    "score": 100,
+    "active": false,
+    "grade": {
+        "current": 1,
+        "max": 10
+    }
+},{
+    "sectionName": "משימה 6",
+    "sectionIcon": "../assets/display-icon.svg",
+    "score": 100,
+    "active": false,
+    "grade": {
+        "current": 1,
+        "max": 5
+    }
+},{
+    "sectionName": "משימה 6",
+    "sectionIcon": "../assets/display-icon.svg",
+    "score": 100,
+    "active": false,
+    "grade": {
+        "current": 6,
+        "max": 10
+    }
+},{
+    "sectionName": "משימה 6",
+    "sectionIcon": "../assets/display-icon.svg",
+    "score": 100,
+    "active": false,
+    "grade": {
+        "current": 5,
+        "max": 10
+    }
+}]
